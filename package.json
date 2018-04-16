@@ -1,0 +1,23 @@
+{
+  "name": "word-guess-cmd-line",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevnfu/word-guess-cmd-line.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevnfu/word-guess-cmd-line/issues"
+  },
+  "homepage": "https://github.com/kevnfu/word-guess-cmd-line#readme",
+  "dependencies": {
+    "inquirer": "^5.2.0",
+    "npm": "^5.8.0"
+  }
+}
