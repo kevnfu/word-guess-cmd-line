@@ -8,7 +8,7 @@ class Word {
   toString() {
     return this.letters
         .map(l => l.toString())
-        .reduce((a,b) => a+b);
+        .reduce((a,b) => a + b);
   }
 
   guess(c) {

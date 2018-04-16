@@ -5,7 +5,7 @@ let lines;
 
 // load words
 fs.readFile('words.txt', 'utf8', (err, data) => {
-  lines = data.split('\r\n'); // store in global variable
+  lines = data.split('\n'); // store in global variable
 
   playGame();
 });
